@@ -1,6 +1,6 @@
-# 💼 Diseño CV - Mi Currículum Interactivo
+# 💼 Diseño CV - Mi hoja de vida
 
-Este sitio es una versión interactiva y visual de mi currículum vitae desarrollado con HTML y CSS. Este proyecto es parte de mi aprendizaje y crecimiento en el desarrollo web, y está diseñado para mostrar de manera profesional mi trayectoria, proyectos, habilidades y más.
+Este sitio es una versión interactiva y visual de mi hoja de vida desarrollado con HTML y CSS. Este proyecto es parte de mi aprendizaje y crecimiento en el desarrollo web, y está diseñado para mostrar de manera profesional mi trayectoria, proyectos, habilidades y más.
 
 ### Características:
 
