@@ -28,4 +28,4 @@ Este proyecto fue desarrollado utilizando las siguientes tecnologías:
 1. Clona este repositorio en tu máquina local:
 
 ```bash
-git clone [https://github.com/tusuario/fotoCV.git](https://github.com/merliariza/DesignCV.git)
+git clone https://github.com/merliariza/DesignCV.git
